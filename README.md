@@ -4,7 +4,7 @@ Yazılım dili olarak
 <u>
 Scss<br>
 Css<br>
-Html<nr>
+Html<br>
 <u>
 </ul><br>
 
