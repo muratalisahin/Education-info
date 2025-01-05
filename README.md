@@ -2,3 +2,4 @@
 
 ![alt text](educationsite-ezgif.com-crop.gif)
 # EducationBilgi
+# Education-info
