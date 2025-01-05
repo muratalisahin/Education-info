@@ -121,11 +121,11 @@
     <footer>
         
    
-<p>&copy; 2025 UdemyClone, All Rights Reserved</p>
-    </footer>
-
-
 ![Uploading educationsite-ezgif.com-optimize.gif…]()
+
+
+
+
 
 
 
