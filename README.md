@@ -1,6 +1,6 @@
 # 12_hi_udemig_educations
 Yazılım dili olarak sade bir arayüzü vardır <br>
-Udemıge benzer bir tasarıma sahiptir
+Udemıge benzer bir tasarıma sahiptir<br>
 Scss<br>
 Css<br>
 Html<br>
