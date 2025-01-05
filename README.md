@@ -10,5 +10,3 @@ Html<nr>
 
 
 ![alt text](educationsite-ezgif.com-optimize.gif)
-# EducationBilgi
-# Education-info
